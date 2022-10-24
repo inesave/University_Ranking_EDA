@@ -1,4 +1,4 @@
-# University Selection
+# EDA: University Selection
 
 The following files were submitted for a project at The Bridge Data Science course in Madrid.
 
